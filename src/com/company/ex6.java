@@ -1,7 +1,7 @@
 package com.company;
 
 
-public class Main {
+public class ex6 {
 
     public static void main(String[] args) {
 //declare array to hold below values
